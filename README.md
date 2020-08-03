@@ -1,2 +1,2 @@
-# React-Recoil-Fetch-Users
+# Recoil-Fetch-Users
 Created with CodeSandbox
